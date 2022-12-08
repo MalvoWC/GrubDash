@@ -1,4 +1,4 @@
-Grubdash Project
+# GRUBDASH
 Learning objectives
 This project will test your ability to build APIs with complex validation. Before taking on this project, you should be comfortable with the learning objectives listed below:
 
